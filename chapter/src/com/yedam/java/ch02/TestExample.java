@@ -1,4 +1,4 @@
-package com.yedam.java.ch0201;
+package com.yedam.java.ch02;
 
 //import java.util.Scanner;
 
