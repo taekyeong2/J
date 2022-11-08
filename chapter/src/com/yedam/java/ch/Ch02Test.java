@@ -1,8 +1,8 @@
-package com.yedam.java.ch02;
+package com.yedam.java.ch;
 
 //import java.util.Scanner;
 
-public class TestExample {
+public class Ch02Test {
 
 	public static void main(String[] args) {
 		char v1 = '가';
